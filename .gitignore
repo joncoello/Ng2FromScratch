@@ -240,3 +240,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+*.map
+*.js
+/Ng2FromScratch/typings
